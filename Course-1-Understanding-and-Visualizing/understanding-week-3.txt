@@ -1,0 +1,184 @@
+You have been hired as a consultant by a small pizza company (you may create a name for this small pizza company). They want your help to collect and summarize appropriate data to be used in a marketing advertisement that makes a comparison between their small pizza company and their main competitor (you may create a name for this competitor too).
+
+You are asked to prepare a memorandum to the small pizza company’s CEO describing how they could conduct such a study to support claims focusing on one or two of the company’s strengths (such as amount of toppings, speed of service, customer satisfaction, etc. ~ be creative).
+
+
+**[Your Name]**
+
+**[Your Title/Position]**
+
+**[Today's Date]**
+
+**Memorandum**
+
+**To: [Small Pizza Company's CEO]**
+
+**Subject: Comparative Study for Marketing Advertisement**
+
+Dear [CEO's Name],
+
+I hope this memorandum finds you well. I am writing to outline a strategy for conducting a comparative study between [Small Pizza Company] and our main competitor, [Competitor's Name], to support marketing claims and highlight our strengths.
+
+**Objective:**
+The primary objective of this study is to gather and summarize data that showcases the strengths of [Small Pizza Company] in comparison to [Competitor's Name]. For the purpose of this memorandum, let's focus on "Customer Satisfaction" and "Speed of Service."
+
+**Methodology:**
+1. **Customer Satisfaction:**
+   - Conduct customer surveys: Develop a short, targeted survey to gather feedback on overall satisfaction, taste, and service. Use platforms like email, social media, and in-store feedback cards to maximize responses.
+   - Online Reviews: Analyze online reviews on platforms like Yelp, Google Reviews, and Facebook to understand customer sentiments.
+
+2. **Speed of Service:**
+   - Mystery Shopping: Implement a mystery shopping program to evaluate the speed of service. Deploy mystery shoppers to both [Small Pizza Company] and [Competitor's Name], assessing factors like order processing time and delivery speed.
+   - Internal Data Analysis: Examine internal data on order processing times and delivery speeds. Utilize point-of-sale data to identify peak hours and areas for improvement.
+
+**Data Presentation:**
+Compile the collected data into clear, visually appealing graphs and charts. Utilize infographics to present key findings and make comparisons between [Small Pizza Company] and [Competitor's Name].
+
+**Recommendations:**
+1. Emphasize Positive Comparisons: Highlight areas where [Small Pizza Company] outperforms [Competitor's Name], such as faster delivery times or higher customer satisfaction ratings.
+  
+2. Leverage Testimonials: Incorporate positive customer testimonials and reviews into marketing materials. Real-life experiences can be compelling evidence of our strengths.
+
+3. Social Media Campaign: Create a targeted social media campaign based on the study results. Utilize eye-catching visuals and engaging content to promote our strengths to a broader audience.
+
+4. Monitor and Iterate: Regularly monitor customer feedback, reviews, and internal data to ensure ongoing improvement. Use insights from the study to inform continuous enhancements in areas that matter most to our customers.
+
+I am confident that this comparative study will provide valuable insights to strengthen our marketing claims and enhance our competitive positioning in the market.
+
+Should you have any questions or require further clarification, please feel free to reach out.
+
+Best Regards,
+
+[Your Full Name]  
+[Your Contact Information]  
+[Your Company Name]
+
+
+
+In each of the questions in this assessment, you'll read a description of a sample, and decide whether or not it is a probably or non-probability sample.
+
+A random sample of U.S. households is selected from a population address list, and households in lower-income areas are randomly sampled at a higher rate than households in higher income areas. Both sampling rates are known. The households are then mailed a paper survey asking about employment status.
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+2.
+Question 2
+
+
+The telephone surveying technique known as random digit dialing (RDD) is used to select a random sample of households from two different lists: a list of randomly generated landline telephone numbers, and a list of randomly generated mobile phone numbers. Mobile phone numbers are sampled at a higher rate than landline numbers. Both rates are known.
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+3.
+Question 3
+
+
+A doctoral student in psychology wants to collect opinion information from the general campus population, but doesn’t have a large budget for her research. She decides to go out on one of the busiest campus street, wait on the corner, and ask people walking by if they would like to answer a few brief questions. She ultimately speaks with 100 people and analyzes the data.
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+4.
+Question 4
+
+
+A University survey research center selects a random sample of counties in the U.S. using probability proportionate to size, with a certain number of counties to be sampled from each of the four major regions of the United States. One hundred housing units are then selected at random within each randomly selected county, from all available housing units within each county, and one adult is selected at random within each household and invited to participate in a survey. 
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+5.
+Question 5
+
+
+After randomly selected adults from the randomly sampled housing units in Question 4 above have completed a survey, they are invited to join a web panel that will receive invitations to complete web surveys throughout the year. 
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+6.
+Question 6
+
+
+Visitors to a sports information web site click on an advertisement that says they can get paid for providing their opinions about current events.
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+7.
+Question 7
+
+
+A researcher visits a homeless shelter in a nearby city, tells some individuals currently residing in the center that they can receive compensation for participating in a survey, and indicates that they should also tell everyone in their social networks about this opportunity.
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+8.
+Question 8
+
+
+A psychology professor is told by a statistical consultant that she needs 100 males and 100 females to have enough statistical power to compare the two groups in terms of mean scores on a new scale that she is developing. She actively recruits student volunteers for the study, and turns away all interested volunteers after she hits her target of 100 people in each group.
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+9.
+Question 9
+
+
+Facebook wishes to estimate the proportion of Facebook users living in Washington, D.C. that has tweeted about Donald Trump in the past week. They select a random sample of 100,000 posts from all of these identified users in the past week, and analyze the content of the posts.
+
+1 point
+
+Probability
+
+
+Non-Probability
+
+10.
+Question 10
+
+
+A large University wishes to collect information about incidents of sexual assault from its students. They obtain a list of all undergraduate students from the registrar’s office, and randomly select 2,500 males from all possible male undergraduates, and 2,500 females from all possible female undergraduates.
+
+1 point
+
+Probability
+
+
+Non-Probability
